@@ -13,6 +13,7 @@ How to run- Copy the compiled executable file "mygit" in any folder of choice. R
 ./mygit log
 ./mygit checkout argument
 
+```
 Folder structure-
 	2024201043_Assignment4
 	        |
@@ -34,3 +35,4 @@ Folder structure-
 	        |
 	        |
 	        |_______README.md
+```
